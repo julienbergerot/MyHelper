@@ -1,2 +1,4 @@
-/venv_listener
-/venv_gguf
+/tests
+/venv
+*.gguf
+*.pyc

@@ -1,0 +1,10 @@
+# listener
+sounddevice
+vosk
+
+# speaker
+pyaudio
+pyttsx3
+
+# gtp model
+ctransformers[cuda]
